@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="nombre">Edwin Paredes</string>
+    <string name="telefono">73967022</string>
+    <string name="email">erolandopc@gmail.com</string>
+
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+
+</resources>
